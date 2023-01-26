@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "text": "Home",
+      "path": "Home/Home.md",
+      "items": [
+        {
+          "text": "Test",
+          "path": "Home/Index.md"
+        },
+        {
+          "text": "Test2",
+          "path": "Home/Index2.md"
+        }
+      ]
+    }
+  ]
+}
